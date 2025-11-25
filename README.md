@@ -108,16 +108,10 @@ March has the highest revenue peak
 
 PowerBI Dashboard.pbix
 
-Final Presentation (PPT)
-
-Audio Explanation
-
-Dataset (Excel)
-
 README.md (this file)
 
 📬 Contact
 
 Name: Shital Waghmaare
 Role: Data Analytics Intern
-LinkedIn: Add your LinkedIn link here
+LinkedIn:https://www.linkedin.com/in/shital-waghmare-47b900350/
