@@ -1,6 +1,8 @@
 # -Shield-Insurance-Analytics
 📊 Shield Insurance BI Dashboard
 
+Power BI Dashbard Link: https://app.powerbi.com/view?r=eyJrIjoiYzA3NTUzMTMtODI5ZC00OThiLTlmMDAtZjAxZWZkMDgyYzdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Created by: Shital Waghmaare
 Tools: Power BI | DAX | Excel
 
